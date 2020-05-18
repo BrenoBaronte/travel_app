@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:travelapp/widget/hotel_carousel.dart';
 import 'package:travelapp/widget/destination_carousel.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
@@ -75,6 +76,8 @@ class _HomeScreenState extends State<HomeScreen> {
             ),
             SizedBox(height: 20.0),
             DestinationCarousel(),
+            SizedBox(height: 20.0),
+            HotelCarousel(),
           ],
         ),
       ),
