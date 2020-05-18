@@ -25,7 +25,6 @@ class _HomeScreenState extends State<HomeScreen> {
         setState(() {
           _selectedIndex = index;
         });
-        print(_selectedIndex);
       },
       child: Container(
         height: 60.0,
