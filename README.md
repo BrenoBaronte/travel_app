@@ -2,4 +2,4 @@
 
 A simple Flutter travel app.
 
-![travel-app](https://i.imgur.com/yqGS2S9.mp4)
+![travel-app](https://media.giphy.com/media/KEksq9tBESxehovQp4/giphy.gif)
